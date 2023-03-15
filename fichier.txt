@@ -1,0 +1,4 @@
+"AadClientId": "99d500ec-676a-4178-8dc0-8d7ddae639b7",
+"AadSecret": "V8r8Q~kySjp9WpM7IXtqPgBqkU5PfY-gqO6dBdyl",
+"SecretID": "fda342da-ad7d-4701-a2db-763c89517654",
+"AadTenantId": "99d500ec-676a-4178-8dc0-8d7ddae639b7",
